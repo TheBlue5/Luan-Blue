@@ -35,21 +35,21 @@ local Window = Luna:CreateWindow({
 
 local BlueTab = Window:CreateTab({
 	Name = "Blue, The Penguin",
-	Icon = "Plumbing",
+	Icon = "view_in_ar",
 	ImageSource = "Material",
 	ShowTitle = true -- This will determine whether the big header text in the tab will show
 })
 
 local RoxTab = Window:CreateTab({
 	Name = "Rox, The Snow King",
-	Icon = "home_repair_service",
+	Icon = "view_in_ar",
 	ImageSource = "Material",
 	ShowTitle = true -- This will determine whether the big header text in the tab will show
 })
 
 local RexTab = Window:CreateTab({
 	Name = "Rex, The Magician",
-	Icon = "home_repair_service",
+	Icon = "view_in_ar",
 	ImageSource = "Material",
 	ShowTitle = true -- This will determine whether the big header text in the tab will show
 })
