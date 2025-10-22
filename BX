@@ -262,7 +262,7 @@ local Button = RoxTab:CreateButton({
     Name = "💃💃💃 ",
     Description = nil,
     Callback = function(Value)
-        loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Free-emote/refs/heads/main/Delta%20mad%20stuffs"))()
     end
 })
 
@@ -400,7 +400,7 @@ local Button = RexTab:CreateButton({
     Name = "💃💃💃 ",
     Description = nil,
     Callback = function(Value)
-        loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Free-emote/refs/heads/main/Delta%20mad%20stuffs"))()
     end
 })
 
