@@ -168,6 +168,16 @@ local Button = BlueTab:CreateButton({
     end
 })
 
+local Button = BlueTab:CreateButton({
+    Name = "🐎🪙",
+    Description = nil,
+    Callback = function(Value)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/echelonvanta/Scripts/refs/heads/main/Animations%20Hub/obf_2KTeT1WC6e8V26ira78t2RwMjo4P9KCH04Wb5dGh1Ma995p0s8K6u5kb0kq0b1O2.lua.txt"))()
+    end
+})
+
+
+
 -- Rox
 
 local Button = RoxTab:CreateButton({
